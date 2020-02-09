@@ -27,6 +27,7 @@ sdc      8:32   0  250M  0 disk
 sdd      8:48   0  250M  0 disk 
 sde      8:64   0  250M  0 disk 
 ```
+Скрипт для сборки [raid5.sh](https://github.com/xeniaweber/otus-linux/blob/master/hw2/step1/raid5.sh)
 #### Собираю RAID5
 Зануляю суперблоки 
 ```console
